@@ -9,4 +9,4 @@ Please, refer to the paper to fully understand the meaning of the items reported
 The repository contains the following material:
 * *interaction.csv*: the first part of the interaction log, containing the most of the information; 
 * *questions.csv*: the second part of the interaction log, containing the textual transcriptions of the questions;
-* *ilogpreprocessing.py*: Python script that takes as inputs the interaction file (*interactions.csv*) and the question file (*questions.csv*) to make some preliminary processing. The output of the script are the processed file (*processed.csv*) and 
+* *ilogpreprocessing.py*: Python script that takes as inputs the `interaction file` (*interactions.csv*) and the question file (*questions.csv*) to make some preliminary processing. The output of the script are the processed file (*processed.csv*) and 
