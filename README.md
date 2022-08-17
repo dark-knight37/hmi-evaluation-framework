@@ -8,8 +8,8 @@ More details at: https://www.psicologia.unicampania.it/android-project
 
 ## Long-term objective
 In the context of the ANDROIDS project, this research has the long term goal to define and implement a framework for the design and the quantitative evaluation of HMIs in next generation smart and emotionally-aware virtual agents. To this aim, the main steps of the roadmap to accomplishing the research are:
-1 ciao
-2 ciao
+1. ciao
+2. ciao
 
 ## Current status
 Up to this date, the 
