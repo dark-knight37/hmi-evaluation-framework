@@ -1,7 +1,7 @@
-# WIRN22 paper replication package
+# MIDas4CS23 paper replication package
 This folder is devoted to contain the support material useful for replicating the research published in the paper *Inferring Emotional Models from Human-Machine Speech Interactions*.
 
-At this date, this paper has not been published. It will be published of the proceedings of the 30th Italian Workshop on Neural Networks (WIRN) https://www.siren-neural-net.it/wirn-2022/
+At this date, this paper has been submitted to the MIDas4CS - First Workshop on the Modelling and Implementation of Digital Twins for Complex Systems1st https://midas4cs.github.io/2023/#four
 
 Please, refer to the paper to fully understand the meaning of the items reported in this repository. In case the paper is not published yet, contact stefano.marrone@unicampania.it for information.
 
